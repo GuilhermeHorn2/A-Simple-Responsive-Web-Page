@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="container">
+  <div class="section-title">
+   <h1>Title <span>Title</span>title </h1>
+   <img src="./images2/pexels-photo.jpeg" alt="">
+
+  </div>
+  <div class="columns">
+   <div class="el1">
+    <h2>Title</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At iusto magni ipsa quos eos illo pariatur totam tenetur nihil consequuntur rem, distinctio illum. Modi sed a expedita facilis sunt eaque unde nemo iusto atque fuga quidem adipisci ratione aut similique, deserunt ducimus fugiat, in accusamus incidunt qui id illum quam exercitationem. Asperiores, culpa deleniti? Saepe corporis eum doloremque, deserunt eos esse, maxime quibusdam atque sit, veritatis repudiandae accusantium eveniet. Eum facilis quam nesciunt, maxime hic voluptatum minima impedit dolor iure minus sequi, modi voluptate voluptatem dolore ea commodi, placeat reiciendis. Culpa nostrum nisi explicabo, sit temporibus officia laborum corporis optio animi pariatur beatae? Magnam excepturi tempore eius enim, autem, suscipit sit nihil repudiandae sunt quasi optio, impedit officiis quia alias repellat dolor fugiat dolorum laboriosam? Saepe quod esse quis dolore, eaque laboriosam! Error dolores labore repellendus voluptatem odit, possimus eos hic quia ratione corporis cupiditate itaque doloremque? Sequi est ad recusandae laboriosam! Facilis, officiis. Nulla ipsum eligendi, placeat eum porro quo. Pariatur et deserunt magni! Praesentium eligendi quo quis fugiat fuga aut distinctio similique, beatae vero fugit? Animi deserunt enim doloribus numquam vitae voluptatum iure ea vero iste rerum aperiam nemo, recusandae ducimus quibusdam, quod vel asperiores natus quidem sint!</p>
+   </div>
+   <div class="el2">
+    <h2>Title</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam fugit culpa, sint minima dolor quod laboriosam mollitia perferendis ullam reiciendis totam modi eum maxime eos cumque earum excepturi aliquid nihil tenetur, eveniet laudantium. Quibusdam ut at, velit odio obcaecati ad delectus repudiandae facere ea sed, eaque perspiciatis provident deleniti quos laborum earum veniam, debitis commodi? . </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a fugiat ut placeat labore omnis ex nobis rerum sint, ipsa atque esse et totam deleniti tempora saepe, soluta temporibus iusto laudantium impedit suscipit minus aliquam repudiandae? Incidunt impedit neque tenetur harum dolore, quod ea cum ab corrupti. .</p>
+   </div>
+   <div class="el3">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste inventore, ullam necessitatibus eum blanditiis accusantium, non facere, dolor sed qui illum nesciunt commodi ex quisquam rem beatae unde! Ipsa unde suscipit minima architecto libero quis maxime accusantium officiis alias similique reiciendis commodi ab, nulla nisi delectus quod fuga blanditiis sapiente dolorem. Odio delectus, aperiam optio vitae ullam repellat provident et at libero fuga, suscipit doloremque recusandae voluptatum eum saepe earum praesentium aliquam culpa iusto! Nobis sequi in nulla harum at debitis dicta, exercitationem velit similique.</p>
+   </div>
+
+  </div>
+  <div class="columns mod">
+   <div class="ell1">
+    <h2>Title</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In saepe maiores adipisci, mollitia unde ipsam at dolorum numquam autem cum nesciunt assumenda distinctio, deleniti nemo praesentium minus dolorem odit sit quis fugit eligendi doloremque repellat aspernatur soluta?.
+   </div>
+   <div class="ell2">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat obcaecati dolorum hic facilis, dicta nesciunt nulla optio totam ipsam quo asperiores. Saepe maiores commodi, incidunt optio ipsam aut, vel officia, dolore eius quibusdam distinctio blanditiis dolorum error repudiandae? .</p>
+   </div>
+  </div>
+
+
+ </div>
+ 
+ 
+</body>
+</html>
